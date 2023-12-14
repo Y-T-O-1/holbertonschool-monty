@@ -1,11 +1,11 @@
 #include "monty.h"
 
 /**
- * execute_opcode - interpreter operations
- * @op_code: content line
- *
- * Return: void
- */
+* execute_opcode - interpreter operations
+* @op_code: content line
+*
+* Return: void
+*/
 void execute_opcode(char *op_code)
 {
 	unsigned int i = 0;
